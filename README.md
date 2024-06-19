@@ -4,8 +4,6 @@
 
 Поиск фильмов по Кинопоиску на React + TypeScript + Redux. Используется неофициальное апи [Kinopoisk Api Unofficial](https://kinopoiskapiunofficial.tech/) для доступа к актуальной информации.</br>
 
-Деплой: [Kinopoisk Explorer](https://rizametovd.github.io/typescript-kinopoisk-explorer/)</br>
-
 ## Стек
 
 - React
@@ -29,6 +27,3 @@ npm run start
 ```
 
 Если все прошло успешно, проект будет запущен на `http://localhost:3000`
-
-## Превью
-![Превью проекта](./public/preview.gif)
